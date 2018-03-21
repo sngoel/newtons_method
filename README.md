@@ -1,4 +1,4 @@
-# newtons_method_lu_decomp
+# Newtons Method using LU Decomposition
 * Matlab Implementation to solve a system of 4 nonlinear equations using Newton’s method.
 * LU decomposition with pivoting plus forward and backward scheme. 
 * Predefined epsilon = 10-8e
