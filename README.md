@@ -3,3 +3,7 @@
 * LU decomposition with pivoting plus forward and backward scheme. 
 * Predefined epsilon = 10-8e
 * To avoidgetting into a dead-loop, i.e., terminate the loop if n = 20. 
+
+# Newtons form for Interpolating Polynomials
+* Numericla Analysis - David Kincaid 
+* Chapter 6 - Question 37 (Using Matlab)
